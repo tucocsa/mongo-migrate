@@ -1,4 +1,4 @@
-module github.com/xakep666/mongo-migrate
+module github.com/tucocsa/mongo-migrate
 
 require (
 	github.com/go-stack/stack v1.8.0 // indirect
